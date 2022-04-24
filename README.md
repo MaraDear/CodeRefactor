@@ -2,21 +2,24 @@
 
 # Links
 
-#Description
+* [Link to website] (https://maradear.github.io/ProjectOneCodeRefactor/)
+* {Link to code repository] (https://github.com/MaraDear/ProjectOneCodeRefactor)
+
+## Description
 
 Horiseon is a marketing agency that helps promote your business. They have different services such as Search Engine Optimization, Brand Awareness and Cost Management to improve businesses web presence. This was updated for accessibility for the company.
 
-# Table of Contents
+## Table of Contents
 
 #Installation
 
 To install the Horiseon page, login to Github and got to github.com/MaraDear/ProjectOneCodeRefactor. Above the list of filed, click the arrow pointing downwards above the green 'code' button. To clone the repository using HTTPS, under "Clone with HTTPS", click the copy icon to clone the repository using an SSH key, click Use SSH, then click the copy icon to clone a repository using GitHub CLI, click Use GitHub CLI, then click .
 
-#Usage
+## Usage
 
 Access the webpage to recieve more information about Horiseon. Use the links at the top of the page to go directly to the information you're looking for or read through the site independently. Learn more about the services Horiseon provides by reading through the section to the left of the web page content.
 
-#License
+## License
 MIT License
 
 Copyright (c) [2022] Danielle Gordon
