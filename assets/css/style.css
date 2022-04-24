@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styling Header Section */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,11 +22,13 @@ header h1 {
     font-size: 48px;
 }
 
+/* "seo" Section in brand name */
+
 header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +36,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+nav ul {
     list-style-type: none;
 }
 
-header nav ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/*Styling Hero/ Jumbotron Section */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Styling Content Section */
 
 .float-left {
     float: left;
@@ -121,6 +129,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Styling Footer Section */
 
 .footer {
     padding: 30px;
