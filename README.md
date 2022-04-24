@@ -2,8 +2,8 @@
 
 # Links
 
-* [Link to website] (https://maradear.github.io/ProjectOneCodeRefactor/)
-* {Link to code repository] (https://github.com/MaraDear/ProjectOneCodeRefactor)
+* [Link to website](https://maradear.github.io/ProjectOneCodeRefactor/)
+* [Link to code repository](https://github.com/MaraDear/ProjectOneCodeRefactor)
 
 ## Description
 
