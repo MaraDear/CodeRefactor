@@ -11,7 +11,11 @@ Horiseon is a marketing agency that helps promote your business. They have diffe
 
 ## Table of Contents
 
-#Installation
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+
+## Installation
 
 To install the Horiseon page, login to Github and got to github.com/MaraDear/ProjectOneCodeRefactor. Above the list of filed, click the arrow pointing downwards above the green 'code' button. To clone the repository using HTTPS, under "Clone with HTTPS", click the copy icon to clone the repository using an SSH key, click Use SSH, then click the copy icon to clone a repository using GitHub CLI, click Use GitHub CLI, then click .
 
