@@ -23,6 +23,9 @@ To install the Horiseon page, login to Github and got to github.com/MaraDear/Pro
 
 Access the webpage to recieve more information about Horiseon. Use the links at the top of the page to go directly to the information you're looking for or read through the site independently. Learn more about the services Horiseon provides by reading through the section to the left of the web page content.
 
+![image](https://user-images.githubusercontent.com/102925259/165000379-06e0ba16-0d4a-4c7a-9f49-23a62cc9142f.png)
+
+
 ## License
 MIT License
 
